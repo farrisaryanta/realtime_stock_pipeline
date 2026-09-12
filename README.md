@@ -26,7 +26,7 @@ The architecture transitions live streaming data through a robust message broker
 ### 1. Real-Time Market Trend Analytics
 This dashboard connects directly to the production database to provide an executive overview of live cryptocurrency and stock market trades, updating automatically every 5 seconds to track latest transaction prices across multiple symbols.
 
-![Real-Time Stock & Crypto Dashboard](assets/dashboard.jpg)
+![Real-Time Stock & Crypto Dashboard](assets/dashboard.png)
 
 ---
 
