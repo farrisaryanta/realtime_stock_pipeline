@@ -1,0 +1,24 @@
+# Environment & Secrets
+.env
+
+# Python Cache & Logs
+__pycache__/
+logs/
+*.log
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Local Data / Parquet Micro-batches
+processed_data/
+*.parquet
+
+# Power BI Local Cache
+*.pbix.auto
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
